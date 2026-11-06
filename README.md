@@ -7,7 +7,7 @@
 
 - 🔭 I'm a **Data Engineer** at **Lookiero Outfittery Group**
 - 🎸 I love going to concerts, playing the guitar, and doing CrossFit
-- 🎲 Fun fact: I've met the (real) Santa Claus and seen rain in the Sahara!
+- 🎲 Fun fact: I've met (the real) Santa Claus and seen rain in the Sahara!
 
 ## 🛠️ Technologies & Tools
 
